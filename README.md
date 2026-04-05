@@ -6,7 +6,7 @@
 Schools collect a lot of data on students, but usually only find out someone is struggling *after* they fail a final exam. This project uses machine learning to predict final scores early in the semester so teachers can step in and help.
 
 ## What I Did
-* **Predicted Grades:** Used everyday data—like attendance and study hours—to forecast final exam scores (0–100).
+* **Predicted Grades:** Used data—like attendance and study hours—to forecast final exam scores (0–100).
 * **Tested Models:** Compared five machine learning models (Linear Regression, Decision Tree, Random Forest, KNN, and Lasso) to find the most accurate one.
 * **Built an App:** Created an easy-to-use web dashboard using Streamlit so teachers can easily make predictions.
 
