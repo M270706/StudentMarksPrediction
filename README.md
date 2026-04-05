@@ -1,4 +1,3 @@
-# StudentMarksPrediction
 # ML Project
 
 # 🎓 Student Marks Prediction
