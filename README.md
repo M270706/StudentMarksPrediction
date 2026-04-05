@@ -27,12 +27,5 @@ Since the relationship between studying, showing up, and getting good grades is 
 | **Decision Tree** | 1.56 | 4.27 | **Weak** |
 
 ## How to Run the Dashboard
-If you want to run this project on your own computer, follow these steps:
 
-1. Clone this repository to your machine.
-2. Install the required Python libraries:
-   ```bash
-   pip install pandas scikit-learn streamlit plotly
-3. Run the Streamlit app:
-   ```bash
-   streamlit run src/mini_p.py
+All the packages are installed in code file you need to just run on your software 
